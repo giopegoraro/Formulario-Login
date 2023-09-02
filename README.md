@@ -8,4 +8,4 @@ O app consiste em uma tela de login simples, porém com suas funcionalidades bem
 
 ## Uso
 
-Para utilizar o app, basta que o usuário abra-o, clicando em cima do seu ícone e interaja com os campos para preencher, por mais que não ocorrerá nada, o app está funcionando normalmente.
+Para utilizar o app, basta que o usuário abra-o, clicando em cima do seu ícone e interaja com os campos disponíveis para preencher.
